@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: true,\n  apiBaseUrl: 'http://example.com/api'\n}; // \"outputPath\": \"dist/employeemanagerapp\",\n//\"outputPath\": \"docs\",","map":null,"metadata":{},"sourceType":"module"}
